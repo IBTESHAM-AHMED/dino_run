@@ -7,7 +7,8 @@ This project demonstrates practical game-loop engineering in Flutter: component-
 ## Screenshots
 
 Screenshots and GIF demos will be added here.
-Demo video: [Watch gameplay demo](assets/demo/dino_run%20beta%201.0.mp4)
+
+<video src="assets/demo/dino_run%20beta%201.0.mp4" controls width="900"></video>
 
 ## Key Features
 
