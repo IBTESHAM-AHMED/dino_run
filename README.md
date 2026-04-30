@@ -4,11 +4,9 @@ Dino Run is a 2D side-scrolling endless runner built with Flutter and the Flame 
 
 This project demonstrates practical game-loop engineering in Flutter: component-based gameplay logic, collision handling, layered UI overlays, audio controls, and local persistence for player progress and settings.
 
-## Screenshots
+## Demo
 
-Screenshots and GIF demos will be added here.
-
-<video src="assets/demo/dino_run%20beta%201.0.mp4" controls width="900"></video>
+https://github.com/user-attachments/assets/297f5dd3-2a37-4704-aa15-c35f5046ce3a
 
 ## Key Features
 
